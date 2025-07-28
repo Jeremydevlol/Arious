@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "112261725346",
+    "project_id": "woonkly-38aed",
+    "storage_bucket": "woonkly-38aed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112261725346:android:84795eb1d6b8bf2d4eabfb",
+        "android_client_info": {
+          "package_name": "com.company.appname"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112261725346-gsh4k9b6nsp7s731qc3000m06qfj42q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe9rK2D4-NvpaZrbZ0mYNYdqHhrrPYA8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112261725346-gsh4k9b6nsp7s731qc3000m06qfj42q9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "112261725346-3334ts24nvbd0dqbuvmgbdlimtut8cc5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.woonkly.mobileapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
